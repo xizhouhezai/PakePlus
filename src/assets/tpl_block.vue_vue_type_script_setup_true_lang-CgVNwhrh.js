@@ -1,0 +1,1 @@
+import{d as r,o as a,c as t,A as c}from"./index-C4AMdMz2.js";const p=r({__name:"tpl_block",props:{res:null},setup(o){const e=o;return(l,n)=>(a(),t("div",{flex:"","flex-j-c":"","flex-a-c":"","color-gray-300":"",style:c({height:`${e.res.data.height}px`,backgroundColor:e.res.data.background})}," 空白模块 - 此文字不会在页面展示 ",4))}});export{p as _};
