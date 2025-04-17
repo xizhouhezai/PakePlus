@@ -1,0 +1,1 @@
+import{n as o,M as n}from"./index-C4AMdMz2.js";import{u as a}from"./index-Cwm13-Rt.js";function m(){const e=o(),t=a();return{logout:async(r,s)=>{await t.logout();const u=e.currentRoute.value;n.success("登出成功"),s==="no-redirect"?e.push("/login"):e.push({name:r&&typeof r=="string"?r:"login",query:{...e.currentRoute.value.query,redirect:s||u.name}})}}}export{m as u};
