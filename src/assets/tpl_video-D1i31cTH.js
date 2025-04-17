@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as l,k as s}from"./index-C4AMdMz2.js";const c={},n={"h-210px":"","w-full":"","bg-black":""};function r(a,e){return t(),l("div",n,e[0]||(e[0]=[s("video",{"h-full":"","w-full":""},null,-1)]))}const f=o(c,[["render",r]]);export{f as default};
