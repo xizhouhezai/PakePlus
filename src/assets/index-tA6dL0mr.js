@@ -1,0 +1,1 @@
+import{c as i}from"./index-RdD_tp-0.js";import{R as s}from"./index-C4AMdMz2.js";const n=s("path",{actions:{viewGoodsDetail(o,e){e?window.open(`${i.PC_DOMAIN}/goodsDetail?skuId=${e}&goodsId=${o}`,"_blank"):window.open(`${i.PC_DOMAIN}/goodsDetail?goodsId=${o}`,"_blank")}}});export{n as u};
