@@ -1,0 +1,1 @@
+import{d as t,o as a,c as o,k as r,A as c,s as n}from"./index-C4AMdMz2.js";const l=["src"],_=t({__name:"tpl_ad",props:{res:null},setup(s){const e=s;return(p,i)=>e.res?(a(),o("div",{key:0,"w-1200px":"",style:c({height:`${e.res.data.height||80}px`})},[r("img",{block:"","h-full":"","w-1184px":"",src:e.res.data.list[0].img},null,8,l)],4)):n("",!0)}});export{_};
