@@ -1,0 +1,1 @@
+import{d as t,o as a,c as l,k as s,A as n}from"./index-C4AMdMz2.js";const r={"w-full":"",flex:"","flex-a-c":""},i=t({__name:"tpl_line",props:{res:null},setup(o){const e=o;return(c,p)=>(a(),l("div",r,[s("div",{"w-full":"",style:n({height:`${e.res.data.height}px`,backgroundColor:e.res.data.background})},null,4)]))}});export{i as _};
