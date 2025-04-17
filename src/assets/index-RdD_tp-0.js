@@ -1,0 +1,1 @@
+const s={PORT:10003,TITLE:"",MAP_SECURITY_CODE:"2bd0fbf621881f4c77be74f0e76495f3",MAP_KEY:"7f11113750315d8543daaf5c3ba353ca",MOBILE_URL:"https://buyer.lilishop.snmapp.com/h5/#/",PC_DOMAIN:"https://buyer.lilishop.snmapp.com",WAP_DOMAIN:"https://buyer.lilishop.snmapp.com",INVENT:{EMPTY_IMAGE:"https://lili-system.oss-cn-beijing.aliyuncs.com/img.png"}};export{s as c};
